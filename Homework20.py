@@ -22,7 +22,7 @@
 # mylist = [1, 1, 4, 32, 6] 
 # func(mylist)
 
-'''N3  wrong!!!!'''
+'''N3'''
 # j = 0
 # new_string = ''
 # string =  '_, we have a _.'
