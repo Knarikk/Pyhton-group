@@ -23,14 +23,21 @@
 # func(mylist)
 
 '''N3  wrong!!!!'''
-
+# j = 0
+# new_string = ''
 # string =  '_, we have a _.'
-# mylist = ['Ashot', 'problem','i']
-# for j in range(0,len(mylist)):
-#     # if string[j] == '_':
-#         x = string.replace('_',mylist[j])
-#         print(x)
-# print(x)
+# mylist = ['Ashot', 'problem',]
+# for i in range(0,len(string)):
+#     if string[i] == '_':
+#         new_string += mylist[j]
+#         j+=1
+#     else:
+
+#         new_string += string[i]    
+
+# print(new_string)
+
+
 
 '''N4'''
 # def func(list1):

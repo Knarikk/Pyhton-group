@@ -65,3 +65,4 @@
 #     return -1
 # list1 = [10,15,20,25,30,45,60,75,85,95,100,155]
 # print(BinarySearch(list1,85))
+

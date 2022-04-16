@@ -85,12 +85,13 @@
 #     json.dump(mul,file)
 
 '''N4'''
+
 # import json
 # count_vowels = 0
 # alpha = 'a','e','i','o','u','y'
 # string = input('Enter string ')
-# for i in alpha:
-#     if i in string:
+# for i in string:
+#     if i in alpha:
 #         count_vowels += 1
 # print(count_vowels)
 # with open('file2.json','a') as file:
@@ -112,12 +113,14 @@
 
 
 '''N6'''
-
+# import json
 # my_list1 = ['a','b','a','c','b']
 # mylist2 = []
 # for i in my_list1:
 #     if i not in mylist2:
 #         mylist2.append(i) 
+# with open('file2.json','a') as file:
+#     json.dump(mylist2,file)
 # print(mylist2)
 
 '''N7'''

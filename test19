@@ -1,0 +1,2 @@
+import Homework19
+print(Homework19.fact(4))
